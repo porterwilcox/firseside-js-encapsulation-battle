@@ -1,0 +1,23 @@
+body {
+    overflow-x: hidden;
+}
+.fighter-img {
+    height: 250px;
+    width: auto;
+}
+.clickable {
+    cursor: pointer;
+}
+.h100 {
+    height: 100vh;
+}
+.disabled {
+    cursor: default;
+    pointer-events: none;
+}
+.bg-trick-0 {
+    background-color: green;
+}
+.bg-trick-1 {
+    background-color: brown;
+}
